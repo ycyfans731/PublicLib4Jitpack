@@ -1,0 +1,3 @@
+include ':publiclib'
+include ':app'
+rootProject.name = "PublicLib4Jitpack"
